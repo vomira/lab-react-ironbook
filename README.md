@@ -30,12 +30,6 @@ $ cd starter-code
 
 Then you can move the file `users.json` to `starter-code/src/users.json`.
 
-## Before starting
-
-To make the exercise easier, create only 1 component `App`. We will learn later who to create more complex website with multiple components that communicate each other.
-
-
-
 ## Instructions
 
 
